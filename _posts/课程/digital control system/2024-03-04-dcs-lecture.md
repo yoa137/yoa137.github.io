@@ -16,45 +16,45 @@ DCS
 
 ### 基础知识
 
+###### DCS design stages
+
 1.  Information on the processes and the signals can be provided by
 
    - direct measurable inputs, outputs, state variables, 
 
    - process models and signal models, 
 
-   - state estimates of processes and signals
+   - state estimates of processes and signals.
 
-2.  Control system structure has to be designed in the form o
+2.  Control system structure has to be designed in the form of
+
+   - single input/single output (SISO) control systems; 
+
+   - interconnected control systems; 
+
+   - multi input/multi output (MIMO) control systems; 
+
+   - decentralized control systems.
 
 3.  Feedforward and feedback control algorithms are to be designed and adjusted using
 
+   - simple tuning rules for the parameters; 
+
+   - computer-aided design; 
+
+   - self-optimizing adaptive control algorithms.
+
 4.  Noise filtering
+
+   High-frequency noise which contaminates the controlled variables and which cannot be controlled, has to be filtered by analogue and digital filters.
 
 5.  Feedforward or feedback control of actuators
 
-3.  for all control and filter algorithms the effects of amplitude quantization have to be considered.
+   Depending on the construction of the actuator, various feedforward or feedback controls of the actuator are possible. The control algorithms for the process have to be adjusted to the actuator control.
 
-### 学习方法
+3.  For all control and filter algorithms the effects of amplitude quantization have to be considered.
 
-1. 学习时间分散，一天多段，预习，学习，复习。
-2. 单词卡
-3. input 与 output 比例。
-
-## 字母表
-
-### 学习项目
-
-1. 发音
-2. 印刷体，手写体
-3. 单词
-
-### 测试
-
-1. 听写
-2. 看读
-3. 默写+读
-
-
+![image](/img/in-post/master/dcs/1.png)
 
 
 

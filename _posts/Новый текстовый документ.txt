@@ -1,0 +1,8 @@
+https://eng.libretexts.org/Bookshelves/Electrical_Engineering/Signal_Processing_and_Modeling/Signals_and_Systems_(Baraniuk_et_al.)/12%3A_Z-Transform_and_Discrete_Time_System_Design/12.04%3A_Inverse_Z-Transform
+
+https://spinlab.wpi.edu/courses/ece503_2014/2-5inverse_z_transform.pdf
+
+https://lpsa.swarthmore.edu/LaplaceZTable/LaplacePropTable.html
+
+
+用留数推导
